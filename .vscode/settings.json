@@ -25,5 +25,10 @@
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "explicit"
     },
-    "markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>"
+    "markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>",
+    "prettier.ignorePath": "0",
+    "prettier.prettierPath": "0",
+    "prettier.withNodeModules": true,
+    "typescript.tsdk": "js.node",
+    "typescript.tsserver.nodePath": "'node'"
 }
